@@ -1,7 +1,5 @@
-# Right On Time
-MSA 8010 Project
-
-A machine learning project for the course at Georgia State University, Master of Science - Analytics 8010.
+# Right On Time (Flight Delay Prediction)
+A Machine Learning project for the "Data Programming for Analytics" Course (MSA 8010) in MS in Analytics Program at Georgia State University.
 
 This project deals with prediction of flight delays using the 2015 Flight delays dataset from the U.S. Department of Transportation. https://www.kaggle.com/usdot/flight-delays
 
